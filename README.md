@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-header-image](github-header-image.png)
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Go, Python
